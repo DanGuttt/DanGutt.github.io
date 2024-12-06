@@ -1,0 +1,10 @@
+#volant {
+    position: absolute;
+    cursor: pointer;
+  }
+  
+#non {
+    position : absolute;
+    top: 115px;
+    left: 90px;
+}
